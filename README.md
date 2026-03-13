@@ -41,7 +41,8 @@ product-requirements-chat/
 
 1. **在 Trae 的 skills 目录下创建 product-requirements-chat 文件夹**
 2. **将本文件夹中的 skill/SKILL.md 文件复制到该目录**
-3. **在对话中使用**：当你需要通过对话澄清需求时，Trae 会自动识别并调用该 Skill
+3. **按照本skill下载配置好skill和引用mcp工具**
+4. **在对话中使用**：当你需要通过对话澄清需求时，Trae 会自动识别并调用该 Skill
 
 ## 核心能力
 
